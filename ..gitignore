@@ -1,0 +1,11 @@
+
+.venv/
+
+# Ignore credentials or sensitive files (e.g., API keys)
+.credentials
+
+# Ignore config.js if it's sensitive (make sure it's not pushed to GitHub)
+scripts/config.js
+
+# Node.js dependencies (if applicable)
+node_modules/
