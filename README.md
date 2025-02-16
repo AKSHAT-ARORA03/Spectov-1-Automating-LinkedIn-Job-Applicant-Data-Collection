@@ -85,3 +85,5 @@ Visit `http://localhost:8000` in a browser.
 ## License
 MIT License
 
+To know how to set up ,see this video below
+https://youtu.be/LyMRDKxI-vU?si=mv0lZ1OLyBUuPmD7
